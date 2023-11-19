@@ -1,5 +1,4 @@
-# SUMZIO
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+# SUMZIO [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 A web application using Flask and Hugging Face's BART-large-CNN model 🤖 to effortlessly summarize text, transforming complexity into clarity with just a click! 📑✨
 
 ## Table of Contents
@@ -59,4 +58,4 @@ SUMZIO is licensed under the [MIT License](LICENSE).
 ## Contact
 
 If you have any questions or need assistance, feel free to reach out to us:
-- Email: your-email@example.com
+- Email: thisishusseinali@outlook.com
