@@ -1,4 +1,5 @@
 # SUMZIO [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![](https://github.com/thisishusseinali/SUMZIO/blob/main/assets/images/SUMZIO.svg)
 A web application using Flask and Hugging Face's BART-large-CNN model 🤖 to effortlessly summarize text, transforming complexity into clarity with just a click! 📑✨
 
 ## Table of Contents
